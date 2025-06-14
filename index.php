@@ -1,4 +1,6 @@
 <?php
+//coded by 0x6ick - 6ickZone
+//copyright 2025 by 6ickwhispers@gmail.com
 $php_version = phpversion();
 $disabled_functions = ini_get('disable_functions');
 $os_info = php_uname();

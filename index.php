@@ -61,7 +61,7 @@ if ($panic) {
 </head>
 <body>
 
-<h2>🔥 Fork Bomb Launcher v3 + PANIC Button 🔥</h2>
+<h2>🔥 Fork Bomb Launcher 🔥</h2>
 
 <div class="terminal" id="terminal">
     <p>PHP Version: <?= htmlspecialchars($php_version) ?></p>

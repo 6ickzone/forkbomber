@@ -1,4 +1,4 @@
-# 💣 ForkBomber — PHP Fork Bomb Launcher v3 + PANIC Button
+# 💣 ForkBomber — PHP Fork Bomb Launcher
 
 > ⚠️ DISCLAIMER: This project is for **educational and research purposes only**.  
 > Do NOT run this script on shared hosting or any production server.  
@@ -44,7 +44,7 @@ and includes a **PANIC button** to attempt cleanup via `pkill`.
 
 ## 📸 Preview
 
-(Place your screenshot here)
+![screenshot](assets/bomb.png)
 
 ---
 

@@ -97,7 +97,7 @@ if ($panic) {
         fakeOutput();
     </script>
 
-    <!-- Tombol PANIK muncul setelah BOOMB -->
+    <!-- Tombol PANIK -->
     <form method="get">
         <button name="panic" value="1" class="btn btn-panic">🆘 PANIK! KILL ALL!</button>
     </form>
